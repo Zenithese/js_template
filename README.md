@@ -1,2 +1,2 @@
-# first_brief
+# js_template
 # first_brief
